@@ -1,0 +1,2 @@
+# Skripsi
+Aplikasi Skripsiku
